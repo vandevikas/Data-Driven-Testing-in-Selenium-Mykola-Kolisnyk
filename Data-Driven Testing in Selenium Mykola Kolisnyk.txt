@@ -1,0 +1,6 @@
+echo "# Data-Driven-Testing-in-Selenium-Mykola-Kolisnyk" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vandevikas/Data-Driven-Testing-in-Selenium-Mykola-Kolisnyk.git
+git push -u origin mast
